@@ -1,0 +1,11 @@
+D:\Denisa\programare idk\Tema3\Tema3\bin\Debug\Tema3.exe.config
+D:\Denisa\programare idk\Tema3\Tema3\bin\Debug\Tema3.exe
+D:\Denisa\programare idk\Tema3\Tema3\bin\Debug\Tema3.pdb
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.csprojAssemblyReference.cache
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.Form1.resources
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.Properties.Resources.resources
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.csproj.GenerateResource.cache
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.csproj.CoreCompileInputs.cache
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.exe
+D:\Denisa\programare idk\Tema3\Tema3\obj\Debug\Tema3.pdb
+D:\Denisa\programare idk\Tema3\Tema3\bin\Debug\Database2.accdb
